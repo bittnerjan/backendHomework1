@@ -12,3 +12,6 @@ Habit 4:
 
 Habit 5:
     -keep learning
+
+Habit 6:
+    -collaboration, being a team player, don't be afraid to ask for help
