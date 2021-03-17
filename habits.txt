@@ -15,3 +15,6 @@ Habit 5:
 
 Habit 6:
     -collaboration, being a team player, don't be afraid to ask for help
+
+Habit7:
+    -progamming might be a lonely/solo activity
